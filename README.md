@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello world 👋
+
+I am a Brazilian population ecologist interested in many things, but particularly keen to explore the demographic drivers and fates of wildlife populations and how we can translate theory in better management actions for sustainable resources. I’m also an enthusiast of old school naturalists, citizen science and programming.
+
+Up to that, I’m a coffee seeker (a.k.a coffee addiction :coffee:), beer taster, and an MPB (Brazilian Popular Music) lover. 
+
+Here you will probably find some projects that I'm developing, nothing too fancy but I hope something is interesting to you. Let's build something together, send me your thoughts about the project you liked most and I'll problably be in touch soon.
+
+Cheers! 🌱
+
 
 <!--
 **Ecosantos/Ecosantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
