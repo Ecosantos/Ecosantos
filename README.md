@@ -4,7 +4,7 @@ I am a Brazilian population ecologist interested in many things, but particularl
 
 Up to that, I’m a coffee seeker (a.k.a coffee addiction :coffee:), beer taster, and an MPB (Brazilian Popular Music) lover. 
 
-Here you will probably find some projects that I'm developing, nothing too fancy but I hope something is interesting to you. Let's build something together, send me your thoughts about the project you liked most and I'll problably be in touch soon.
+There is nothing too fancy here but I hope there is something of your intrest. Let's build something together, send me your thoughts about the project you liked most and I'll problably be in touch soon.
 
 Cheers! 🌱
 
