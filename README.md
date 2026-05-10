@@ -9,7 +9,17 @@ There is nothing too fancy here but I hope there is something of your intrest. L
 Cheers! 🌱
 
 Maybe you will find something interesting on my [website](https://ecosantos.netlify.app/)
+
+
+[![Ecosantos' statistics](https://streak-stats.demolab.com?user=Ecosantos&border_radius=10.1&short_numbers=true&mode=weekly&theme=kanagawa-paper``)]({LINK})
+
+
+
+
 <!--
+Para temas na streak-stats ver: https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/docs/themes.md
+
+For Github Streak
 **Ecosantos/Ecosantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
