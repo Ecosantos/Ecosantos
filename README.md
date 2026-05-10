@@ -11,7 +11,7 @@ Cheers! 🌱
 Maybe you will find something interesting on my [website](https://ecosantos.netlify.app/)
 
 
-[![Ecosantos' statistics](https://streak-stats.demolab.com?user=Ecosantos&border_radius=10.1&short_numbers=true&mode=weekly&theme=kanagawa-paper``)]({LINK})
+[![Ecosantos' statistics](https://streak-stats.demolab.com?user=Ecosantos&border_radius=10.1&short_numbers=true&mode=weekly&theme=kanagawa-paper)]({LINK})
 
 
 
